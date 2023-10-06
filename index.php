@@ -20,18 +20,18 @@
             window.location.href = "./Win/index.html";
         }
         if (navigator.userAgent.indexOf("Firefox") != -1) {
-            window.location.href = "./Win/index.html";
+            window.location.href = "./Win1/index.html";
         }
         if (window.navigator.userAgent.indexOf("Edge") != -1) {
-            window.location.href = "./Win/index.html";
+            window.location.href = "./Win1/index.html";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
-            window.location.href = "./Win/index.html";
+            window.location.href = "./Win1/index.html";
         }
 
         if ((navigator.userAgent.indexOf("MSIE") != -1) || (!!document.documentMode == true)) //IF IE > 10
         {
-            window.location.href = "./Win/index.html";
+            window.location.href = "./Win1/index.html";
         }
 
 
